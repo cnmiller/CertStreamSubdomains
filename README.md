@@ -1,4 +1,4 @@
-# Cert_Subdomains
+# CertStream Subdomains
 Subdomains collected from certificate transparency logs
 
 ## Command to convert raw cerstream logs (certs.txt) to cleaned subdomain list (certs_clean.txt)
